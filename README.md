@@ -28,4 +28,4 @@ Trata-se de um app que tem o intuito de ajudar pontos de coleta de resíduos ser
 
 <img src="https://github.com/MarcosWinicios/Ecoleta/blob/master/Telas/Home-mobile.png" width=300 height=500  />
 
-<img src="" width=300 height=500  />
+<img src="https://github.com/MarcosWinicios/Ecoleta/blob/master/Telas/Detalhes.png" width=300 height=500  />
